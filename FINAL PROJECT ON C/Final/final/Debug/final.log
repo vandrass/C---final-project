@@ -1,0 +1,12 @@
+﻿  main.c
+E:\Study\Ivan\Lang\C\works\FINAL PROJECT ON C\Final\final\main.c(22,7): warning C4013: 'gets' undefined; assuming extern returning int
+E:\Study\Ivan\Lang\C\works\FINAL PROJECT ON C\Final\final\main.c(111,19): warning C4047: '=': 'char' differs in levels of indirection from 'char [2]'
+  morse.c
+E:\Study\Ivan\Lang\C\works\FINAL PROJECT ON C\Final\final\morse.c(184,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+E:\Study\Ivan\Lang\C\works\FINAL PROJECT ON C\Final\final\morse.c(268,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+E:\Study\Ivan\Lang\C\works\FINAL PROJECT ON C\Final\final\morse.c(270,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+E:\Study\Ivan\Lang\C\works\FINAL PROJECT ON C\Final\final\morse.c(512,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+E:\Study\Ivan\Lang\C\works\FINAL PROJECT ON C\Final\final\morse.c(562,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+E:\Study\Ivan\Lang\C\works\FINAL PROJECT ON C\Final\final\morse.c(563,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+  Generating Code...
+  final.vcxproj -> E:\Study\Ivan\Lang\C\works\FINAL PROJECT ON C\Final\Debug\final.exe
